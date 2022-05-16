@@ -15,7 +15,7 @@ La especificación HTML5 trae muchos nuevos elementos a los desarrolladores web,
 
 La definición de la estructura de un documento en HTML 4 y su algoritmo de perfilado es muy tosco y genera numerosos problemas:
 
-HTML5 quita la necesidad de elementos <div> para definir secciones semánticas sin definir valores específicos para los atributos class, introduciendo un nuevo elemento, <section>, el elemento de sección HTML.
+HTML5 quita la necesidad de elementos ```<div>``` para definir secciones semánticas sin definir valores específicos para los atributos class, introduciendo un nuevo elemento, <section>, el elemento de sección HTML.
 
 Mezclar varios documentos es difícil: la inclusión de un sub-documento en un documento principal. Esto se resuelve en HTML5 con los elementos de seccionado (<article>, <section>, <nav> y <aside>) son siempre subsecciones de su sección ancestra más cercana.
     
